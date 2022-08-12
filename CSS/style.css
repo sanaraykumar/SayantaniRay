@@ -1,0 +1,145 @@
+body {
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', serif;
+  font-size: 70px;
+  color: #FFB2A6;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', serif;
+  font-size: 30px;
+  color: #FFB2A6;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', serif;
+  color: #FF8AAE;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #9ADCFF 6px;
+  border-bottom: none;
+  width: 6%;
+  margin: 100px auto;
+}
+
+html {
+  margin: 0px;
+}
+
+div {}
+
+.Intro {
+  width: 70%;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #FFF89A;
+  position: relative;
+  padding-top: 70px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #FFF89A;
+  padding: 50px 0 20px;
+}
+
+.cloud-1 {
+  width: 100px;
+  position: absolute;
+  right: 200px;
+  top: 5px;
+}
+
+.cloud-2 {
+  position: absolute;
+  width: 200px;
+  left: 99px;
+  bottom: 157px;
+}
+
+.btn {
+  background: #ffb2a6;
+  background-image: -webkit-linear-gradient(top, #ffb2a6, #ff8c8c);
+  background-image: -moz-linear-gradient(top, #ffb2a6, #ff8c8c);
+  background-image: -ms-linear-gradient(top, #ffb2a6, #ff8c8c);
+  background-image: -o-linear-gradient(top, #ffb2a6, #ff8c8c);
+  background-image: linear-gradient(to bottom, #ffb2a6, #ff8c8c);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Montserrat;
+  color: #dfeaed;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffc3c3;
+  background-image: -webkit-linear-gradient(top, #ffc3c3, #de9292);
+  background-image: -moz-linear-gradient(top, #ffc3c3, #de9292);
+  background-image: -ms-linear-gradient(top, #ffc3c3, #de9292);
+  background-image: -o-linear-gradient(top, #ffc3c3, #de9292);
+  background-image: linear-gradient(to bottom, #ffc3c3, #de9292);
+  text-decoration: none;
+}
+
+.my-linkdin-id {
+  color: #FF8AAE;
+  font-family: Montserrat;
+  text-decoration: none;
+}
+
+.my-linkdin-id:hover{
+  color: #ffb2a6;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.case-treatment {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.empathy {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me{
+  width: 40%;
+  margin: auto;
+}
+.copyright{
+  color: #ffb2a6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
